@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pavan Kumar",
+    "review": "The solar training program opened my eyes to the immense potential of renewable energy. The instructors were exceptional, and the hands-on exercises solidified my understanding.",
+    "image": "./man_1.png",
+    "studies": "ITI Fitter"
+  },
+  {
+    "name": "Naveen Chandra",
+    "review": "I can't recommend the solar training course enough. The instructors were passionate, the curriculum was comprehensive, and the practical experience was invaluable.",
+    "image": "./man_2.png",
+    "studies": "ITI Electrical"
+  },
+  {
+    "name": "Jyothi",
+    "review": "Attending the solar training workshop was a turning point in my career. The instructors' expertise and the practical training gave me the confidence to launch my own solar business.",
+    "image": "./woman_2.png",
+    "studies": "Diploma Electrical"
+  },
+  {
+    "name": "Renuka",
+    "review": "The solar training program provided me with a strong foundation in solar technology. The instructors were patient and the course material was well-structured.",
+    "image": "./woman_1.png",
+    "studies": "Diploma Mechanical"
+  },
+  {
+    "name": "Harsha Vardhan",
+    "review": "I am grateful for the solar training I received. The instructors went above and beyond to ensure we grasped the concepts, and the networking opportunities were invaluable.",
+    "image": "./man_1.png",
+    "studies": "ITI Electrical"
+  },
+  {
+    "name": "Nagendra",
+    "review": "The solar training course was worth every penny. The instructors' real-world experience and the hands-on projects prepared me for a successful career in solar energy.",
+    "image": "./man_2.png",
+    "studies": "Diploma Electrical"
+  }
+]

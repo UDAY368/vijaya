@@ -1,0 +1,32 @@
+.f-container {
+  justify-content: space-between;
+}
+
+.f-container .primaryText {
+  font-size: 1.6rem;
+}
+
+.f-container .secondaryText {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.f-container .f-left {
+  gap: 1rem;
+}
+.f-center {
+  gap: 0.5rem;
+}
+.footer-pointer {
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .f-container {
+    justify-content: center !important;
+  }
+  .f-container > div {
+    align-items: center !important;
+    text-align: center;
+  }
+}

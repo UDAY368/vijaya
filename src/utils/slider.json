@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Solar Grids",
+    "detail": "We are Offering 1KV, 1.5KV and 2KV OnGrid as well as OffGrid Even for Industrial Purpose also",
+    "image": "./solar_panal.jpg"
+  },
+  {
+    "name": "Solar Pumps",
+    "price": "66,353",
+    "detail": "We offer Environmentally friendly water pumping solutions powered by solar energy for agriculture.",
+    "image": "./solar_pump.png"
+  },
+  {
+    "name": "Solar Street Lights",
+    "price": "35,853",
+    "detail": "Energy-efficient outdoor lighting solutions powered by solar panels, offering cost savings and eco-friendly illumination.",
+    "image": "./Street_lamp.jpg"
+  },
+  {
+    "name": "Solar Inventors",
+    "price": "47,043",
+    "detail": "Essential components for converting DC solar energy into AC electricity, ensuring efficient power utilization and grid compatibility.",
+    "image": "./solar_invetors.jpg"
+  }
+]
