@@ -13,6 +13,7 @@ import { MdOutlineArrowDropDown } from "react-icons/md";
 import data from "../../utils/accordion";
 
 const About = () => {
+  const [className, setClassName] = useState(null);
   return (
     <section className="a-wrapper">
       <div className="paddings innerWidth flexCenter a-container">
@@ -38,7 +39,6 @@ const About = () => {
             preExpanded={[0]}
           >
             {data.map((item, i) => {
-              const [className, setClassName] = useState(null);
               return (
                 <AccordionItem
                   className={`accordionItem ${className}`}
